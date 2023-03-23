@@ -11,7 +11,7 @@
   * jQuery
 
 # Deployment
-  * The website is hosted on GitHub Pages and can be accessed through the following link: https://yourdomain.com.
+  * The website is hosted on GitHub Pages and can be accessed through the following link: https://arunkumars-1211.github.io/ArunKumar-Portfolio/
 
 # Usage
   * You are welcome to view and explore my personal portfolio website to learn more about me and my work. Please feel free to contact me if you have any questions.
